@@ -33,3 +33,5 @@
    - если зона слева/справа — поворот;
    - если тупик — разворот.  
 5. **Публикация управляющих команд** в топик: /controller/cmd_vel
+
+https://github.com/user-attachments/assets/99cad6e1-d6e7-42d6-ad9e-60bca93d236f
